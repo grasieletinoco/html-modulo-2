@@ -22,4 +22,3 @@ As páginas terão que seguir um padrão pré-definido para utilizar como base. 
 ###### Tecnologias Usadas:
 * HTML
 * CSS
-
