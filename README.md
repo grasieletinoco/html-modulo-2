@@ -1,6 +1,6 @@
 # Módulo 02 - HTML I - Conceitos Básicos
 
-######Desafio: 
+###### Desafio: 
 Criar um site HTML com os temas abordados no curso da Digital Innovation One (DIO). Com os seguintes temas:
 * Formulários
 * Estruturação e formatação de texto
